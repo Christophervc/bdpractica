@@ -1,2 +1,0 @@
-# bdpractica
- practica sql
